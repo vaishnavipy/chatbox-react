@@ -1,0 +1,63 @@
+body{
+background-color: #D2DEF8;  
+}
+
+.main-container{
+  width:35vw;
+  margin: auto;
+  text-align: center;
+ background: rgba(0,0,0,0.3);
+ border-radius: 20px;
+ height: 60vh;
+ margin-top: 6%;
+ padding: 5px;
+ display: grid;
+ grid-template-columns: 100%;
+ align-content: center;
+}
+.grid{
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+ margin:10px;
+ 
+}
+.conversation-div{
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+  font-size: 17px;
+
+  
+}
+.frog{
+  background-color: #C99038;
+  text-align: left;
+}
+.Oct{
+  background-color: #A42932;
+  text-align: right;
+}
+.icons{
+  font-size: 30px;
+}
+.circle{
+  height:10px;
+  width: 10px;
+  display: inline-block;
+  border-radius: 50%;
+  background:rgba(0,0,0,0.2) ;
+  margin :2px;
+}
+.motion-div{
+  background:rgba(0,0,0,0.3) ;
+ padding: 5px;
+ width:50px;
+border-radius: 10px;
+}
+.left{
+  margin-left:10%;
+}
+.right{
+  margin-left: 70%;
+}
+
