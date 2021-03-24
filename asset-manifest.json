@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chatbox-react/static/css/main.cb6da09a.chunk.css",
+    "main.js": "/chatbox-react/static/js/main.67b4afe7.chunk.js",
+    "main.js.map": "/chatbox-react/static/js/main.67b4afe7.chunk.js.map",
+    "runtime-main.js": "/chatbox-react/static/js/runtime-main.4b94aee4.js",
+    "runtime-main.js.map": "/chatbox-react/static/js/runtime-main.4b94aee4.js.map",
+    "static/js/2.c9f4a2cf.chunk.js": "/chatbox-react/static/js/2.c9f4a2cf.chunk.js",
+    "static/js/2.c9f4a2cf.chunk.js.map": "/chatbox-react/static/js/2.c9f4a2cf.chunk.js.map",
+    "index.html": "/chatbox-react/index.html",
+    "static/css/main.cb6da09a.chunk.css.map": "/chatbox-react/static/css/main.cb6da09a.chunk.css.map",
+    "static/js/2.c9f4a2cf.chunk.js.LICENSE.txt": "/chatbox-react/static/js/2.c9f4a2cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b94aee4.js",
+    "static/js/2.c9f4a2cf.chunk.js",
+    "static/css/main.cb6da09a.chunk.css",
+    "static/js/main.67b4afe7.chunk.js"
+  ]
+}
